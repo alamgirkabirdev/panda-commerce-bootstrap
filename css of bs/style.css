@@ -1,0 +1,14 @@
+.panda-bg-info{
+    background-color: red;
+}
+.categories img{
+   width: 100px; 
+}
+.panda-btn-btn-warning{
+    background-image: linear-gradient(to bottom, #FF5898 0%, #ff4b92);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+
+}
